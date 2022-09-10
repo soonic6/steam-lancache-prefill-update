@@ -1,5 +1,5 @@
 # steam-lancache-prefill-update
-Updater for steam-lancache-prefill
+Updater for [steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill)
 
 1. `wget https://raw.githubusercontent.com/soonic6/steam-lancache-prefill-update/main/steam_prefill_update.sh`
 2. `nano steam_prefill_update.sh`
