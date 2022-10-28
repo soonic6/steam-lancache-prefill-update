@@ -1,3 +1,6 @@
+***Please prefer using the official update.sh from steam-lanchae-prefill.*** 
+steam-lancache-prefill-update can be usefull for a headless instance.
+
 # steam-lancache-prefill-update
 Updater for [steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill)
 
